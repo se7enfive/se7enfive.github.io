@@ -2,7 +2,7 @@
 title: 'se7enfive的个人博客'
 description: '昵称75，90后，本科程序猿/伪极客/灵魂摄影师/游戏玩家，热爱技术&未知。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '75, 75的个人博客, 75的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
-url: 'http://se7enfive.github.com' # your host
+url: 'https://se7enfive.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
