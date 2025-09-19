@@ -4,7 +4,7 @@ title: LINUX DO
 subtitle: 一个以 Linux（远远不止） 与相关技术为核心的中文社区
 date: 2025-09-19
 categories: 推荐
-tags: linux 社区 论坛 开源
+tags: linux
 cover: 
 ---
 
