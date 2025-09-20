@@ -36,7 +36,7 @@ jekyll serve
 ---
 layout: post
 title: 我的第一篇文章
-date: 2025-09-19
+date: 2018-06-19
 categories: 随笔
 tags: jekyll blog
 ---

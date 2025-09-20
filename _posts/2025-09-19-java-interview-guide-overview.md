@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Java核心面试知识整理 - 总览
-subtitle: 基于PDF文档的Java面试知识体系梳理
+title: Java核心知识整理 - 总览
+subtitle: Java知识体系梳理
 date: 2025-09-19
 categories: 技术
-tags: java 面试 知识整理
+tags: java 知识整理
 cover: 
 ---
 
-本文基于《Java核心面试知识整理》PDF文档，梳理Java面试知识体系的核心知识点。
+梳理Java知识体系的核心知识点。
 
 ## 知识体系概览
 
